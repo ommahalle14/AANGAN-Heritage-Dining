@@ -53,6 +53,7 @@ The website features a heritage-inspired design, a detailed menu showcase, an im
 **Phone Numbers:**
 - +91 98815 54111
 - +91 98906 94111
+- +91 9623639998
 
 ## Future Improvements
 
